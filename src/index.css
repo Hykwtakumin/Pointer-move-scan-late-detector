@@ -1,0 +1,7 @@
+body {
+  touch-action: none;
+}
+
+p {
+  font-size: 2rem;
+}
